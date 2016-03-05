@@ -12,4 +12,3 @@ public class App
         System.out.println( "TP2 2016" );
     }
 }
-git
